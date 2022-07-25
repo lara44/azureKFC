@@ -2,8 +2,7 @@
   "profiles": {
     "azureKFC.Functions": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7294",
-      "launchBrowser": false
+      "commandLineArgs": "host start --pause-on-error"
     }
   }
 }
